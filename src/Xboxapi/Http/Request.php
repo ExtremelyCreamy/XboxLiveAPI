@@ -1,0 +1,2 @@
+<?php namespace \Xboxapi\Http;
+
